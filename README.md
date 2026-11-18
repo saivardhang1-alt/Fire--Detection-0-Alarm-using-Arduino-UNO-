@@ -41,7 +41,10 @@ A simple fire detection system developed using Arduino UNO and an analog flame s
 
 ## Source Code
 See `code/fire_detection.ino`.
-
+## Circuit Diagram
+![Fire Detection Circuit Diagram](circuit-digram3.png.jpeg)
+## project Demo
+![Fire Detection Alarm](fire-detection.jpg.jpeg)
 ## Project Status
 Arduino source code uploaded. Hardware testing and sensor threshold calibration required.
 
