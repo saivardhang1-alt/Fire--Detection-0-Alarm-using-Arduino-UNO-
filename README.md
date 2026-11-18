@@ -1,4 +1,4 @@
-# Fire-Detection-Alarm-using-Arduino-UNO
+
 # Fire Detection Alarm using Arduino UNO
 
 ## Project Overview
